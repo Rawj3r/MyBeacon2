@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="package com.equidais.mybeacon.controller.service.QRCode"
+    >
+
+    <item
+        android:id="@+id/navigate"
+        android:title="Back"
+        android:icon="@drawable/ic_action_cancel"
+        android:orderInCategory="200"
+        app:showAsAction="always"/>
+</menu>
